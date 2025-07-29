@@ -21,5 +21,6 @@ Internal sales dataset (simulated for ElectroHub) containing order details, prod
 * Clean, user-friendly layout for quick interpretation by non-technical users
 
 6. Snapshot
+Link : (https://github.com/ADITIBANSAL06/Sales-Dashboard/blob/main/powerbi_P1_ss.png)
 
    
